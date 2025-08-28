@@ -21,11 +21,17 @@ A ideia principal é criar uma bateria virtual, onde cada tecla do teclado emite
 
 📂 Estrutura do Projeto
 📦 bateria
- ┣ 📂 sounds       # Arquivos de áudio (.mp3 / .wav)
- ┣ 📂 css          # Estilizações
- ┣ 📂 js           # Scripts de interação
- ┣ index.html      # Página principal
- ┗ README.md       # Documentação do projeto
+
+ ┣ 📂 sounds
+ # Arquivos de áudio (.mp3 / .wav)
+ ┣ 📂 css
+ # Estilizações
+ ┣ 📂 js
+ # Scripts de interação
+ ┣ index.html
+ # Página principal
+ ┗ README.md
+ # Documentação do projeto
 
  ---
 
